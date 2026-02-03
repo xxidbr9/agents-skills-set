@@ -4,14 +4,14 @@ You can paste this directly as `README.md` at the repository root.
 
 ---
 
-# xxidbr9-agents-skills-set
+# Agents Skills Set
 
 A curated collection of custom **agent skill definitions** designed for use with **Vercel Skills**, autonomous agents, and LLM-driven orchestration systems.
 
 This repository follows a **convention-based layout** so skills can be fetched and installed automatically via tooling such as:
 
 ```
-npx skills add --repo xxidbr9/xxidbr9-agents-skills-set
+npx skills add xxidbr9/agents-skills-set
 ```
 
 ---
@@ -107,7 +107,7 @@ The skill acts as a **knowledge interface**, while the framework repository acts
 Install a skill directly from this repository:
 
 ```
-npx skills add https://github.com/xxidbr9/xxidbr9-agents-skills-set --skill rust-axum-framework
+npx skills add xxidbr9/agents-skills-set --skill rust-axum-framework
 ```
 
 The CLI resolves:
