@@ -1,4 +1,4 @@
-# Axum Web Framework Skill
+# Rust Axum Framework Skill
 
 Complete guide for building production-ready web applications and REST APIs with Axum, the ergonomic and modular Rust web framework.
 

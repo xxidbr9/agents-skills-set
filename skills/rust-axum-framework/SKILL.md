@@ -1,11 +1,11 @@
 ---
-name: axum-web-framework
+name: rust-axum-framework
 description: Complete guide for Axum web framework including routing, extractors, middleware, state management, error handling, and production deployment
 tags: [axum, rust, web-framework, tokio, tower, async, rest-api]
 tier: tier-1
 ---
 
-# Axum Web Framework
+# Rust Axum Framework
 
 A comprehensive skill for building production-ready web applications and APIs using Axum, the ergonomic and modular Rust web framework built on Tokio and Tower. Master routing, extractors, middleware, state management, error handling, and deployment patterns.
 

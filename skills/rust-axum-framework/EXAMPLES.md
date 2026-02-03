@@ -1,4 +1,4 @@
-# Axum Web Framework - Practical Examples
+# Rust Axum Framework - Practical Examples
 
 Comprehensive collection of real-world Axum examples covering routing, state management, middleware, error handling, and production patterns.
 
