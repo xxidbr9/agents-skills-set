@@ -1,6 +1,3 @@
-Below is a **clean, registry-style `README.md`** suitable for a public **agent skills repository** consumable by **Vercel Skills CLI** and other tooling.
-
-You can paste this directly as `README.md` at the repository root.
 
 ---
 
