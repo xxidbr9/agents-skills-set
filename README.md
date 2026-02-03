@@ -1,6 +1,3 @@
-
----
-
 # Agents Skills Set
 
 A curated collection of custom **agent skill definitions** designed for use with **Vercel Skills**, autonomous agents, and LLM-driven orchestration systems.
