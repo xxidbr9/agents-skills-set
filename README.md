@@ -34,8 +34,6 @@ This repository serves as:
 ├── skills/
 │   ├── rust-axum-framework/
 │   │   └── skill.md
-│   ├── websocket-architecture/
-│   │   └── skill.md
 │   └── ...
 └── README.md
 ```
@@ -91,7 +89,7 @@ It is designed for agents that need to:
 This skill is based on and aligned with the following framework repository:
 
 **Rust Axum Framework**
-[rust-axum-framework](./rust-axum-framework)
+[rust-axum-framework](./skills/rust-axum-framework)
 
 That repository provides:
 
@@ -109,7 +107,7 @@ The skill acts as a **knowledge interface**, while the framework repository acts
 Install a skill directly from this repository:
 
 ```
-npx skills add rust-axum-framework --repo xxidbr9/xxidbr9-agents-skills-set
+npx skills add https://github.com/xxidbr9/xxidbr9-agents-skills-set --skill rust-axum-framework
 ```
 
 The CLI resolves:
