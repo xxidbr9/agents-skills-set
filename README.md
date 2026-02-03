@@ -91,7 +91,7 @@ It is designed for agents that need to:
 This skill is based on and aligned with the following framework repository:
 
 **Rust Axum Framework**
-[https://github.com/xxidbr9/xxidbr9-agents-skills-set/tree/master/rust-axum-framework](https://github.com/xxidbr9/xxidbr9-agents-skills-set/tree/master/rust-axum-framework)
+[rust-axum-framework](./rust-axum-framework)
 
 That repository provides:
 
