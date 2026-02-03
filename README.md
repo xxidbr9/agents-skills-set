@@ -11,7 +11,7 @@ A curated collection of custom **agent skill definitions** designed for use with
 This repository follows a **convention-based layout** so skills can be fetched and installed automatically via tooling such as:
 
 ```
-npx skills add <skill-name> --repo xxidbr9/xxidbr9-agents-skills-set
+npx skills add --repo xxidbr9/xxidbr9-agents-skills-set
 ```
 
 ---
